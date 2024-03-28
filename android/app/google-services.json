@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706735512676",
+    "project_id": "appforus-7ce83",
+    "storage_bucket": "appforus-7ce83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706735512676:android:a55e7170b5e79a38039371",
+        "android_client_info": {
+          "package_name": "com.example.app_for_us"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpMaVIZrv1W93f6qKY9zWrLF4I0k7qCRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
